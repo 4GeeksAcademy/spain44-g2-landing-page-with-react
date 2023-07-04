@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-container img {
+    width: 40px;
+    margin-right: 10px;
+  }
