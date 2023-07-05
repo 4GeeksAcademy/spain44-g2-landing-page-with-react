@@ -21,5 +21,18 @@
   .logo-container img {
     width: 40px;
     margin-right: 10px;
+
+
+  .hover-link {
+    text-decoration: none;
+    transition: color 0.3s ease;
   }
-/* >>>>>>> main */
+  
+  .hover-link:hover {
+    color: blue;
+  }
+
+
+  
+  
+
