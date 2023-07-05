@@ -10,9 +10,11 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
 /* <<<<<<< DanielH-landingPage-Jumbotron-DanielH
 
 ======= */
+
 .logo-container {
     display: flex;
     align-items: center;
@@ -21,6 +23,9 @@
   .logo-container img {
     width: 40px;
     margin-right: 10px;
+
+  }
+
 
 
   .hover-link {
@@ -35,4 +40,5 @@
 
   
   
+
 
