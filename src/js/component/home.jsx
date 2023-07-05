@@ -2,9 +2,7 @@ import React from "react";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-// <<<<<<< DanielH-landingPage-Jumbotron-DanielH
 import  {Jumbotron}  from "./Jumbotron";
-// =======
 import { Footer } from "./Footer";
 
 // >>>>>>> main
@@ -25,11 +23,11 @@ const Home = () => {
 				<a href="http://www.4geeksacademy.com">4Geeks Academy</a>, with
 				love!
 			</p>
-// <<<<<<< DanielH-landingPage-Jumbotron-DanielH
+
 			
-// =======
-			<Footer/>
-// >>>>>>> main
+
+		
+
 		</div>
 		
 	);
