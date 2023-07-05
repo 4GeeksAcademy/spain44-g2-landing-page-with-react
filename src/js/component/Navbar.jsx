@@ -6,7 +6,7 @@ const Navbar = () => {
 	return (
 
 	<div className="container">
-		<nav id="Navbar" className="navbar navbar-expand-lg bg-dark p-2">
+		<nav id="navbar" className="navbar navbar-expand-lg bg-dark p-2">
 		<div className="container">
 		  <a className="navbar-brand text-light ms-5" href="https://getbootstrap.com/docs/5.3/getting-started/download/"
                   onMouseOver={(e) => (e.target.style.color = "gray")}
