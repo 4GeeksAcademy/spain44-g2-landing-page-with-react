@@ -2,14 +2,15 @@ import React from "react";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-import { Footer } from "./Footer";
 
-=======
+
+
 import  {Jumbotron}  from "./Jumbotron";
 import { Footer } from "./Footer";
 import Navbar from "./Navbar";
 
-// >>>>>>> main
+
+
 
 //create your first component
 const Home = () => {
