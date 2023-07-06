@@ -7,7 +7,7 @@ export const Cards = () => {
 
     return (
         <div>
-            <div className="card-group">
+            <div className="card-group container">
   <div className="card">
     <img src={cardImg} className="card-img-top" alt="..."/>
     <div className="card-body">
