@@ -1,5 +1,4 @@
 import React from "react";
-import "/workspaces/spain44-g2-landing-page-with-react/src/styles/index.css";
 
 const Navbar = () => {
 
