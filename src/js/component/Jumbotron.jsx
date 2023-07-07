@@ -29,15 +29,48 @@ export function Jumbotron () {
                 <div className="container-fluid py-5 ">
                     <h1 className="display-5 fw-bold text-center text-white ">Jumbotron de Grupo 2</h1>
                     <hr className="my-4" />
-                    <p className="col-md-8 fs-6 mx-auto mt-3 text-white" ><strong>
-Había una vez tres programadores novatos que se embarcaron en el emocionante viaje de estudiar JavaScript y React. El primero, llamado Ayoze, era un apasionado por la programación desde temprana edad y se sentía fascinado por la versatilidad de JavaScript. A medida que profundizaba en el lenguaje, se maravillaba con la capacidad de crear interacciones dinámicas en la web. En su búsqueda por expandir sus conocimientos, se sumergió en el mundo de React, donde descubrió la potencia de construir interfaces de usuario modernas y reactivas.
-
-La segunda programadora, Romina, venía de un trasfondo creativo y encontró en JavaScript una forma de expresar su imaginación en línea. Al estudiar este lenguaje, Romina se sorprendió por su flexibilidad y facilidad para manipular elementos en la página web. Al descubrir React, su mente se iluminó con la posibilidad de crear componentes reutilizables y construir aplicaciones visualmente atractivas.
-
-El tercer programador, Daniel, se aventuró en el mundo de JavaScript y React con una perspectiva empresarial. Si bien comenzó como un novato, se dio cuenta rápidamente del impacto que estas tecnologías podrían tener en el desarrollo de aplicaciones web y móviles. Con cada línea de código que escribía, Daniel se sentía más conectado con la comunidad de desarrolladores y se inspiraba al ver cómo la combinación de JavaScript y React estaba transformando la forma en que interactuamos con la tecnología.
-
-A medida que estos tres programadores continuaban su camino de aprendizaje, enfrentaban desafíos, pero también celebraban sus logros. Aprendieron a superar obstáculos, a colaborar entre ellos y a aprovechar al máximo las herramientas que JavaScript y React les brindaban. Sus vivencias estudiando estas tecnologías no solo les proporcionaron conocimientos técnicos, sino también una pasión compartida por la programación y el deseo de marcar una diferencia en el mundo digital.</strong>               
-                    </p>
+                    <h3>
+            Había una vez tres programadores novatos que se embarcaron en el
+            emocionante viaje de estudiar JavaScript y React.
+          </h3>
+          <p>
+            El primero, llamado Ayoze, era un apasionado por la programación
+            desde temprana edad y se sentía fascinado por la versatilidad de
+            JavaScript. A medida que profundizaba en el lenguaje, se maravillaba
+            con la capacidad de crear interacciones dinámicas en la web. En su
+            búsqueda por expandir sus conocimientos, se sumergió en el mundo de
+            React, donde descubrió la potencia de construir interfaces de
+            usuario modernas y reactivas.
+          </p>
+          <p>
+            La segunda programadora, Romina, venía de un trasfondo creativo y
+            encontró en JavaScript una forma de expresar su imaginación en
+            línea. Al estudiar este lenguaje, Romina se sorprendió por su
+            flexibilidad y facilidad para manipular elementos en la página web.
+            Al descubrir React, su mente se iluminó con la posibilidad de crear
+            componentes reutilizables y construir aplicaciones visualmente
+            atractivas.
+          </p>
+          <p>
+            El tercer programador, Daniel, se aventuró en el mundo de JavaScript
+            y React con una perspectiva empresarial. Si bien comenzó como un
+            novato, se dio cuenta rápidamente del impacto que estas tecnologías
+            podrían tener en el desarrollo de aplicaciones web y móviles. Con
+            cada línea de código que escribía, Daniel se sentía más conectado
+            con la comunidad de desarrolladores y se inspiraba al ver cómo la
+            combinación de JavaScript y React estaba transformando la forma en
+            que interactuamos con la tecnología.
+          </p>
+          <p>
+            A medida que estos tres programadores continuaban su camino de
+            aprendizaje, enfrentaban desafíos, pero también celebraban sus
+            logros. Aprendieron a superar obstáculos, a colaborar entre ellos y
+            a aprovechar al máximo las herramientas que JavaScript y React les
+            brindaban. Sus vivencias estudiando estas tecnologías no solo les
+            proporcionaron conocimientos técnicos, sino también una pasión
+            compartida por la programación y el deseo de marcar una diferencia
+            en el mundo digital.
+          </p>
                     <hr className="my-4" />
                     
                     <div class="btn-group">
