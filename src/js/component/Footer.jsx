@@ -13,7 +13,7 @@ export function Footer () {
           </li>
 
 
-                    <li className="nav-item"><a href="#Navbar" target="_blank" className="nav-link px-2 text-muted">Inicio</a></li>
+                    <li className="nav-item"><a href="#Navbar"  className="nav-link px-2 text-muted">Inicio</a></li>
                     <li className=" nav-item"><a href="https://github.com/ayozegr05" target="_blank" className="nav-link px-2 text-muted">Ayoze</a></li>
                     <li className="nav-item"><a href="https://github.com/RomiTorres" target="_blank" className="nav-link px-2 text-muted">Romina</a></li>
                     <li className="nav-item"><a href="https://github.com/OconnelDan" target="_blank" className="nav-link px-2 text-muted">DanielH</a></li>
@@ -27,7 +27,7 @@ export function Footer () {
                     <li className="nav-item fs-6"><a href="https://github.com/jrdelrio"target="_blank" className="nav-link px-2 text-muted">Jose Raimundo (Teacher Assintad)</a></li>
                 </ul>
                 <p className="text-center text-muted fs-5">
-          © 2023 Grupo 2, de la Cohorte 44 Spain con mucho amor a{" "} <a className="enlace link-success" href="https://4geeks.com/" > 4Geeksacademy </a> 
+          © 2023 Grupo 2, de la Cohorte 44 Spain con mucho amor a{" "} <a className="enlace link-success" href="https://4geeks.com/" target="_blank" > 4Geeksacademy </a> 
           <span dangerouslySetInnerHTML={{ __html: heartSymbol }}></span>
         </p>              
             </footer>
